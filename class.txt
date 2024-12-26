@@ -5,9 +5,10 @@ Cyan
 Yellow
 Charcoal
 Khaki
-Coral
-Silver
+Black
 Fuchsia
 Purple
 Brown
 Red
+
+Some extra stuff
